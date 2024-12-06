@@ -1,4 +1,4 @@
-<img src="https://grejer.voxelmanip.se/uploads/vmf_preview.png">
+<img src="https://cirrus.voxelmanip.se/images/vmf_preview.webp">
 
 Cirrusboard is a minimal and lightweight hobbyist forum software written in PHP. Implementing the core functionality you'd want from a forum, it's perfect for small to medium sized forums and runs lightning fast on anything from dedicated hardware to the tiniest of VPSes.
 
